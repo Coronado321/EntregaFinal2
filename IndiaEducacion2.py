@@ -8,8 +8,7 @@ st.markdown("""
 Optimización de Recursos para el Fortalecimiento Educativo.
 """)
 # Insertamos una imagen
-st.image("IndiaEducacion.jpg", caption="Impacto de diversos factores sobre la tasa de
-graduación.")
+st.image("IndiaEducacion.jpg", caption="Impacto de diversos factores sobre la tasa de graduación.")
 # Usaremos un deslizador
 st.sidebar.header("Presupuesto")
 # Definimos los parámetros de nuestro deslizador:
