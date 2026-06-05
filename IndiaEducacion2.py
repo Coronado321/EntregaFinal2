@@ -37,7 +37,7 @@ LR.fit(X,y)
 b1 = LR.coef_
 b0 = LR.intercept_
 # Especificamos datos por población
-numero = 28000000
+numest = 28000000
 prep_alumno = presupuesto/numest
 # Calculamos el presupuesto asignado a cada rubro
 presupuesto_becas = presupuesto * porcentaje_becas
